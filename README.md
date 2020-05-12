@@ -1,6 +1,6 @@
 # Exercise 4.9 Debt
 
-Create the class `Debt` that has double-typed instance variables of `balance` and `interest_rate`. The balance and the interest rate are passed to the constructor as parameters `def __init__(self, initial_balance, initial_interest_rate)`.
+Create the class `Debt` that has variables of `balance` and `interest_rate`. The balance and the interest rate are passed to the constructor as parameters `def __init__(self, initial_balance, initial_interest_rate)`.
 
 In addition, create the methods `def print_balance()` and `def wait_one_year()` for the class. The method print_balance prints the current balance, and the wait_one_year method grows the debt amount.
 
